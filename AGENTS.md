@@ -9,7 +9,7 @@ ITLearnJD je spoločný projekt na učenie IT. Dôraz je na zrozumiteľnosť, ma
 ## Pracovný postup
 
 1. Každá úloha má svoj **Issue** (šablóna `task-feature` alebo `bug-problem`). Najprv prečítaj zadanie.
-2. Pre každú úlohu vytvor **samostatnú vetvu**: `kubko/issue-<číslo>-kratky-popis` (napr. `kubko/issue-12-uvodna-stranka`).
+2. Pre každú úlohu vytvor **samostatnú vetvu**: `Jakub/issue-<číslo>-kratky-popis` (napr. `Jakub/issue-12-uvodna-stranka`).
 3. Pracuj v **malých krokoch** a commituj často. Správa commitu je stručná a výstižná, na konci `Refs #<číslo>`.
 4. Hotovú prácu odovzdaj cez **Pull Request** podľa šablóny. Do `main` sa nepíše priamo.
 5. `main` sa mení len po schválení vlastníka repozitára. Issue zatvára vlastník, nie autor PR.
@@ -25,7 +25,7 @@ ITLearnJD je spoločný projekt na učenie IT. Dôraz je na zrozumiteľnosť, ma
 - Netvrď, že si niečo otestoval, ak si to nespustil.
 - Pri nejasnom zadaní sa najprv opýtaj.
 
-## Pravidlá pre Kubka
+## Pravidlá pre Jakuba
 
 - Ak niečomu nerozumieš, napíš komentár do Issue. Pýtať sa je v poriadku.
 - Pred odovzdaním si svoju zmenu ešte raz prečítaj a prejdi kontrolný zoznam v PR.
