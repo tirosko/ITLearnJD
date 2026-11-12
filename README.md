@@ -18,12 +18,12 @@ Tento návod popisuje, ako spolu pracujeme.
 Otvor záložku **Issues** a vyber úlohu, ktorú ti niekto zadal. Prečítaj si popis a kritériá prijatia. Ak je niečo nejasné, napíš komentár.
 
 ### 2. Vytvor vetvu
-Názov: `issue-<číslo>-krátky-popis`, napr. `issue-12-uvodna-stranka`.
+Názov: `kubko/issue-<číslo>-kratky-popis`, napr. `kubko/issue-12-uvodna-stranka`.
 
 ```bash
 git checkout main
 git pull
-git checkout -b issue-12-uvodna-stranka
+git checkout -b kubko/issue-12-uvodna-stranka
 ```
 
 ### 3. Pracuj a commituj
@@ -31,7 +31,7 @@ git checkout -b issue-12-uvodna-stranka
 ```bash
 git add .
 git commit -m "Pridaná úvodná stránka (Refs #12)"
-git push -u origin issue-12-uvodna-stranka
+git push -u origin kubko/issue-12-uvodna-stranka
 ```
 
 ### 4. Otvor Pull Request
