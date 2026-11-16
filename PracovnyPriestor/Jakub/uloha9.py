@@ -1,0 +1,6 @@
+a=input("Zadaj str a :")
+b=input("Zadaj str b :")
+S=float(a)*float(b)
+print("Obsah obdĺžnika je:", S)
+V=2*(float(a)+float(b))
+print("Obvod obdĺžnika je:", V)
